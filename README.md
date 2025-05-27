@@ -1,5 +1,5 @@
 # Sistema de Análise de Crédito para Loja de Carros
-Sistema que automatiza a análise de crédito para clientes de uma loja de carros, integrando com APIs de bureaus de crédito e gerando relatórios gráficos para auxiliar na tomada de decisão.
+Sistema que automatiza a análise de crédito para clientes de uma loja de carros, integrando com APIs de crédito e gerando relatórios gráficos para auxiliar na tomada de decisão.
 
 ## Principais Funcionalidades
 - Cadastro e autenticação de vendedores (incluindo login com Google)
